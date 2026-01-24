@@ -1,42 +1,46 @@
-# Bruno | Agronomist & AgTech Solutions 👋
+# Bruno | Agronomist & AI Solutions Architect
 
-I am an **Agronomist (UFV)** with a background in **process redesign (ex-IBM)**, currently specializing in building data-driven tools for the agricultural sector. 
+Bridging Agronomic Science and Data Technology. Leveraging a solid background from UFV and 3 years of experience in process optimization at IBM, I develop technical solutions for the AgTech ecosystem.
 
-My focus is on **AI-First Development** using Large Language Models to architect and deploy technical solutions, bridging the gap between field expertise and scalable software.
-
----
-
-### Professional Profile
-
-* **Domain Expertise:** Graduated in Agronomy from Universidade Federal de Viçosa (UFV).
-* **Corporate Experience:** 3 years at IBM, focusing on process optimization and redesign.
-* **Strategic Vision:** Expert in combining agronomic business logic with AI-assisted coding to solve real-world AgTech challenges.
-* **Global Mobility:** Italian Citizenship.
+My methodology is centered on AI Orchestration using Large Language Models to architect, code, and deploy complex tools with a total focus on business logic and technical feasibility.
 
 ---
 
-### Key Projects (AI-Assisted)
+### PROFESSIONAL PROFILE
 
-####  [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio)
-**Environmental Due Diligence API** Automates land compliance checks for agricultural areas. Built with FastAPI and PostGIS to streamline environmental risk assessment.
+**Education**
+B.S. in Agronomic Engineering — Universidade Federal de Viçosa (UFV).
 
-####  [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast)
-**Predictive Productivity Analytics** Machine Learning model developed to forecast soybean yields across 2,700+ Brazilian municipalities using historical climate and spatial data.
+**Corporate Experience**
+3 years at IBM — Specialized in Workflow Automation and Process Optimization.
 
----
+**Core Competencies**
+AI-Powered Software Development, Agricultural Data Analysis, and Workflow Automation.
 
-### Technical Aligner (AI Orchestration)
-
-* **Languages & Frameworks:** Python (FastAPI, Pandas, Scikit-learn), SQL (PostgreSQL/PostGIS).
-* **Data Science:** Predictive modeling, spatial-temporal analysis, and crop yield simulation.
-* **Ag-Specialties:** Environmental compliance, crop management, and agricultural public tenders (PNCP).
+**International Status**
+Italian Citizenship.
 
 ---
 
-### Let's Connect
-* **Location:** Sumaré/SP, Brazil (Open to remote and international roles).
-* **LinkedIn:** 
-* **Email:** brunoescalhao@gmail.com
+### STRATEGIC PROJECTS (AI-ASSISTED)
+
+#### [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
+A platform for automating environmental audits for rural properties. Developed with a focus on geospatial data integration (PostGIS) and a scalable FastAPI backend.
+
+#### [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
+Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
 ---
-*"The future of agriculture isn't just in the soil; it's in the data we extract from it."*
+
+### TECHNICAL STACK (AI-DRIVEN)
+
+* **Data & Dev:** Python (FastAPI, Pandas, Scikit-learn), SQL (PostgreSQL/PostGIS).
+* **GIS & Analytics:** Spatial analysis, predictive modeling, and climate risk assessment.
+* **Ag-Specialties:** Environmental compliance (CAR/SIGEF), crop management, and Public Tenders (PNCP).
+* **Technical Media:** Product demos and technical documentation via DaVinci Resolve Studio.
+
+---
+
+### CONTACT
+Sumaré/SP, Brazil (Open to remote and international opportunities)
+brunoescalhao@gmail.com
