@@ -1,4 +1,4 @@
-# Bruno | Agronomist & Tech Enthusiast
+# Bruno | Agronomist & Agricultural Data & Workflow Automation
 
 Bridging Agronomic Science and Data Technology. With a background from UFV and 3 years of experience in process optimization at IBM, I build practical, production-minded solutions for the AgTech ecosystem.
 
