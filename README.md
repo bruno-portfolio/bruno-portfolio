@@ -1,8 +1,8 @@
-# Bruno | Agronomist & AI Solutions Architect
+# Bruno | Agronomist & Tech Enthusiast
 
-Bridging Agronomic Science and Data Technology. Leveraging a solid background from UFV and 3 years of experience in process optimization at IBM, I develop technical solutions for the AgTech ecosystem.
+Bridging Agronomic Science and Data Technology. With a background from UFV and 3 years of experience in process optimization at IBM, I build practical, production-minded solutions for the AgTech ecosystem.
 
-My methodology is centered on AI Orchestration using Large Language Models to architect, code, and deploy complex tools with a total focus on business logic and technical feasibility.
+I focus on engineering rigor and delivery, clear problem framing, reproducible pipelines, automated tests when applicable, and documentation that makes tools easy to run, evaluate, and maintain. I also use modern tooling (including LLMs when useful) to accelerate research and prototyping—without compromising correctness or maintainability.
 
 ---
 
@@ -15,26 +15,27 @@ B.S. in Agronomic Engineering — Universidade Federal de Viçosa (UFV).
 3 years at IBM — Specialized in Workflow Automation and Process Optimization.
 
 **Core Competencies**
-AI-Powered Software Development, Agricultural Data Analysis, and Workflow Automation.
+Software Development, Agricultural Data Analysis, Geospatial Systems, Workflow Automation
 
 **International Status**
 Italian Citizenship.
 
 ---
 
-### STRATEGIC PROJECTS (AI-ASSISTED)
+### STRATEGIC PROJECTS 
 
 #### [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
-A platform for automating environmental audits for rural properties. Developed with a focus on geospatial data integration (PostGIS) and a scalable FastAPI backend.
+A platform to automate environmental audits for rural properties, built around geospatial data integration (PostGIS) and a scalable FastAPI backend. 
+Designed to support due diligence workflows and decision-ready outputs.
 
 #### [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
 ---
 
-### TECHNICAL STACK (AI-DRIVEN)
+### TECHNICAL STACK 
 
-* **Data & Dev:** Python (FastAPI, Pandas, Scikit-learn), SQL (PostgreSQL/PostGIS).
+* **Data & Backend:** Python (FastAPI, Pandas, Scikit-learn), SQL (PostgreSQL/PostGIS).
 * **GIS & Analytics:** Spatial analysis, predictive modeling, and climate risk assessment.
 * **Ag:** Environmental compliance, crop management, and Public Tenders.
 * **Technical Media:** Product demos and technical documentation via DaVinci Resolve Studio.
