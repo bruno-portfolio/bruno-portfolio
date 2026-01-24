@@ -30,8 +30,8 @@ A platform to automate environmental audits for rural properties, built around g
 #### [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
-#### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Practical Principles 
-Using AI as decision support, with human-in-the-loop, auditability and risk awareness.
+#### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Responsible AI Decision Support
+Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
 
 ---
 
