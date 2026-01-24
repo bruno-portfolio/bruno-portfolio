@@ -2,7 +2,7 @@
 
 Bridging Agronomic Science and Data Technology. With a background from UFV and 3 years of experience in process optimization at IBM, I build practical, production-minded solutions for the AgTech ecosystem.
 
-I focus on engineering rigor and delivery, clear problem framing, reproducible pipelines, automated tests when applicable, and documentation that makes tools easy to run, evaluate, and maintain. I also use modern tooling (including LLMs when useful) to accelerate research and prototyping—without compromising correctness or maintainability.
+I focus on engineering rigor and delivery, clear problem framing, reproducible pipelines, automated tests when applicable, and documentation that makes tools easy to run, evaluate, and maintain. I also use modern tooling to accelerate research and prototyping without compromising correctness or maintainability.
 
 ---
 
