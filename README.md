@@ -36,7 +36,7 @@ Machine Learning model designed to forecast soybean yields nationwide, integrati
 
 * **Data & Dev:** Python (FastAPI, Pandas, Scikit-learn), SQL (PostgreSQL/PostGIS).
 * **GIS & Analytics:** Spatial analysis, predictive modeling, and climate risk assessment.
-* **Ag-Specialties:** Environmental compliance (CAR/SIGEF), crop management, and Public Tenders (PNCP).
+* **Ag:** Environmental compliance, crop management, and Public Tenders.
 * **Technical Media:** Product demos and technical documentation via DaVinci Resolve Studio.
 
 ---
