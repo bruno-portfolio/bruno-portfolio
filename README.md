@@ -30,6 +30,9 @@ A platform to automate environmental audits for rural properties, built around g
 #### [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
+#### [BasisMind](https://github.com/bruno-portfolio/responsible-ai-decision](https://github.com/bruno-portfolio/BasisMind) | Decision Support System
+A decision support system for physical grain trading operations, transforming scattered market signals into consistent and auditable recommendations.
+
 #### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Responsible AI Decision Support
 Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
 
