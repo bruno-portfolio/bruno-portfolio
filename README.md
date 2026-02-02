@@ -30,10 +30,13 @@ A platform to automate environmental audits for rural properties, built around g
 #### [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
+#### [IDA](https://github.com/bruno-portfolio/IDA-Indice-de-Durabilidade-Agroquimica) | Índice de Durabilidade Agroquímica
+Estima o risco de perda de eficácia de fungicidas devido à evolução de resistência.
+
 #### [BasisMind](https://github.com/bruno-portfolio/BasisMind) | Decision Support System
 A decision support system for physical grain trading operations, transforming scattered market signals into consistent and auditable recommendations.
 
-#### [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web.
+#### [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web
 Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
 
 #### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Responsible AI Decision Support
