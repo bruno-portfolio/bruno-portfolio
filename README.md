@@ -33,6 +33,9 @@ Machine Learning model designed to forecast soybean yields nationwide, integrati
 #### [BasisMind](https://github.com/bruno-portfolio/BasisMind) | Decision Support System
 A decision support system for physical grain trading operations, transforming scattered market signals into consistent and auditable recommendations.
 
+#### [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | LicitaScan
+Scanner de licitações públicas com interface web. Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
+
 #### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Responsible AI Decision Support
 Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
 
