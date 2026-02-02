@@ -21,7 +21,7 @@ Bridging **Agronomic Science** and **Data Technology**. With a background from *
 * **B.S. in Agronomic Engineering** — Universidade Federal de Viçosa (UFV).
 
 **Corporate Experience**
-* **IBM (3 years)** — Specialized in Workflow Automation and Process Optimization.
+* **IBM (3 years)** — Workflow Automation and Process Optimization.
 
 **Core Competencies**
 * Software Development, Agricultural Data Analysis, Geospatial Systems, and Workflow Automation.
