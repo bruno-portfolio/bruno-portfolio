@@ -33,19 +33,19 @@ Bridging **Agronomic Science** and **Data Technology**. With a background from *
 
 ### STRATEGIC PROJECTS
 
-####🛰️ [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
+#### 🛰️ [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
 A platform to automate environmental audits for rural properties, built around geospatial data integration (PostGIS) and a scalable FastAPI backend. Designed to support due diligence workflows and decision-ready outputs.
 
-####🌾 [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
+#### 🌾 [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
-####🧪 [IDA](https://github.com/bruno-portfolio/IDA-Indice-de-Durabilidade-Agroquimica) | Índice de Durabilidade Agroquímica
+#### 🧪 [IDA](https://github.com/bruno-portfolio/IDA-Indice-de-Durabilidade-Agroquimica) | Índice de Durabilidade Agroquímica
 Estima o risco de perda de eficácia de fungicidas devido à evolução de resistência.
 
-####📈 [BasisMind](https://github.com/bruno-portfolio/BasisMind) | Decision Support System
+#### 📈 [BasisMind](https://github.com/bruno-portfolio/BasisMind) | Decision Support System
 A decision support system for physical grain trading operations, transforming scattered market signals into consistent and auditable recommendations.
 
-####🔍 [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web
+#### 🔍 [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web
 Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
 
 #### [Responsible AI Decision Support](https://github.com/bruno-portfolio/responsible-ai-decision) | Responsible AI Decision Support
