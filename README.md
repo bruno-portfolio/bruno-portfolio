@@ -52,10 +52,12 @@ Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP
 Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
 
 
-
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bruno-portfolio&theme=dark" />
+  <img height="180em"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=bruno-portfolio&theme=dark&hide_border=true"
+  />
 </p>
+
 
 
 <h3 align="center">🛠️ Technical Stack</h3>
