@@ -53,7 +53,7 @@ A decision support system for physical grain trading operations, transforming sc
 #### 🔍 [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web
 Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
 
-#### [Responsible AI Decision Support](https://github.com/bruno-portfolio/Decisao-Responsavel-IA) | Decisao-Responsavel-IA
+#### [Responsible AI Decision Support](https://github.com/bruno-portfolio/Decisao-Responsavel-IA) 
 Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
 
 
