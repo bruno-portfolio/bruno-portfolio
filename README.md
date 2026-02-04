@@ -33,6 +33,11 @@ Bridging **Agronomic Science** and **Data Technology**. With a background from *
 
 ### STRATEGIC PROJECTS
 
+#### 📊 [agrobr](https://github.com/bruno-portfolio/agrobr) | Agricultural Data Library
+Python package for Brazilian agricultural data. Provides unified access to CEPEA prices, CONAB harvest forecasts, and IBGE production statistics. Published on PyPI with 99+ tests passing.
+
+`pip install agrobr`
+
 #### 🛰️ [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
 A platform to automate environmental audits for rural properties, built around geospatial data integration (PostGIS) and a scalable FastAPI backend. Designed to support due diligence workflows and decision-ready outputs.
 
