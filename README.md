@@ -41,6 +41,9 @@ Python package for Brazilian agricultural data. Provides unified access to CEPEA
 #### 🛰️ [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
 A platform to automate environmental audits for rural properties, built around geospatial data integration (PostGIS) and a scalable FastAPI backend. Designed to support due diligence workflows and decision-ready outputs.
 
+#### ⚖️  [Universal Gear](https://github.com/bruno-portfolio/Universal-Gear) | Decide better, show why
+Every week you make decisions based on incomplete data. Universal Gear structures that process -- so you can decide better, explain why, and learn from mistakes.
+
 #### 🌾 [Brazil Soybean Forecast](https://github.com/bruno-portfolio/brazil-soybean-forecast) | Predictive Analytics
 Machine Learning model designed to forecast soybean yields nationwide, integrating climate variables and historical data across 2,700+ municipalities.
 
