@@ -9,25 +9,12 @@
 Bridging **Agronomic Science** and **Data Technology**. With a background from **UFV** and 3 years of experience in process optimization at **IBM**, I build practical, production-minded solutions for the AgTech ecosystem.
 
 * **Education:** B.S. in Agronomic Engineering — Universidade Federal de Viçosa (UFV). 🚜
+* 
 * **Corporate Experience:** 3 years at IBM working with AS400 and optimizing procedures. 📈
+* 
 * **Core Competencies:** Software Development, Agricultural Data Analysis, Geospatial Systems, and Workflow Automation. 💻
+* 
 * **International Status:** Italian Citizenship (AIRE registration in progress). 🇮🇹
-
----
-
-### PROFESSIONAL PROFILE
-
-**Education**
-* **B.S. in Agronomic Engineering** — Universidade Federal de Viçosa (UFV).
-
-**Corporate Experience**
-* **IBM (3 years)** — Workflow Automation and Process Optimization.
-
-**Core Competencies**
-* Software Development, Agricultural Data Analysis, Geospatial Systems, and Workflow Automation.
-
-**International Status**
-* **Italian Citizenship** — (AIRE registration in progress).
 
 ---
 
