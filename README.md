@@ -25,6 +25,12 @@ Python package for Brazilian agricultural data. Provides unified access to CEPEA
 
 `pip install agrobr`
 
+#### 📈 [agrobr-mcp](https://github.com/bruno-portfolio/agrobr-mcp) | agrobr MCP server
+MCP server that gives LLMs access to real-time Brazilian agricultural data — prices, crop estimates, climate, deforestation and more from 10 public sources.
+
+#### 🌿 [Flor de Lei](https://github.com/bruno-portfolio/Flor-de-Lei) | Guia gratuito e open-source
+Ajudar pacientes e famílias a navegar o processo burocrático de acesso à cannabis medicinal — do zero ao tratamento, em linguagem simples, sem vender nada e totalmente open-source.
+
 #### 🛰️ [GreenGate](https://github.com/bruno-portfolio/greengate-portfolio) | Environmental Due Diligence
 A platform to automate environmental audits for rural properties, built around geospatial data integration (PostGIS) and a scalable FastAPI backend. Designed to support due diligence workflows and decision-ready outputs.
 
