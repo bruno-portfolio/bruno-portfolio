@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);Agricultural+Data+Science;Workflow+Automation+;Python+Enthusiast" alt="Typing SVG" />
 </p>
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?logo=github-sponsors)](https://github.com/sponsors/bruno-portfolio)
 
 ### 📝 Professional Profile
 Bridging **Agronomic Science** and **Data Technology**. With a background from **UFV** and 3 years of experience in process optimization at **IBM**, I build practical, production-minded solutions for the AgTech ecosystem.
