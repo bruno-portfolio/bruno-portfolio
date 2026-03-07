@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Hello, my name is Bruno 👋</strong></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);AgTech+Developer;Agricultural+Data+Infrastructure;Open+Source+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);AgTech+Developer;Agricultural+Data+Infrastructure;Open+Source+Builder" alt="Typing SVG" />
 </p>
 
 ### 📝 Professional Profile
