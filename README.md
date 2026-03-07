@@ -1,7 +1,5 @@
-<h2 align="center"><strong>Hello, my name is Bruno 👋</strong></h2>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);AgTech+Developer;Agricultural+Data+Infrastructure;Open+Source+Builder" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=180&section=header&text=Bruno%20Escalhão&fontSize=36&fontColor=000000&fontAlignY=35&desc=Agronomist%20(UFV)%20%7C%20AgTech%20Developer%20%7C%20Open%20Source%20Builder&descSize=15&descAlignY=52&animation=fadeIn"/>
 </p>
 
 ### 📝 Professional Profile
@@ -74,3 +72,7 @@ Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP
 * **Location:** Sumaré/SP, Brazil (Open to remote and international opportunities).
 * **Email:** brunoescalhao@gmail.com.
 * **LinkedIn:** [Click here :)](https://www.linkedin.com/in/bruno-escalhao-32a41934b/)
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=Let%27s%20build%20something%20useful&fontSize=18&fontColor=000000&fontAlignY=88&animation=fadeIn"/>
+</p>
