@@ -50,8 +50,7 @@ A decision support system for physical grain trading operations, transforming sc
 Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-portfolio&hide_border=true&bg_color=000000&color=c9d1d9&line=FFD700&point=FFD700&area_color=FFD700&area=true)
-![GitHub Stats](https://github-readme-stats-gamma-nine-40.vercel.app/api?username=bruno-portfolio&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700)![GitHub
-  Streak](https://github-readme-streak-stats-eight.vercel.app/?user=bruno-portfolio&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
+![GitHub Stats](https://github-readme-stats-gamma-nine-40.vercel.app/api?username=bruno-portfolio&show_icons=true&hide_border=true&bg_color=000000&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700)![GitHub  Streak](https://github-readme-streak-stats-eight.vercel.app/?user=bruno-portfolio&hide_border=true&background=000000&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&sideLabels=FFD700&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 ![Top Langs](https://github-readme-stats-gamma-nine-40.vercel.app/api/top-langs/?username=bruno-portfolio&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700)
 
 
