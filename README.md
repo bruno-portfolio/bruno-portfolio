@@ -1,7 +1,7 @@
 <h2 align="center"><strong>Hello, my name is Bruno 👋</strong></h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);Agricultural+Data+Science;Workflow+Automation+;Python+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ecc71&center=true&vCenter=true&width=500&lines=Agronomist+(UFV);AgTech+Developer;Agricultural+Data+Infrastructure;Open+Source+Builder" alt="Typing SVG" />
 </p>
 
 ### 📝 Professional Profile
@@ -11,7 +11,7 @@ Bridging **Agronomic Science** and **Data Technology**. With a background from *
   
 * **Corporate Experience:** 3 years at IBM working with AS400 and optimizing procedures. 📈
   
-* **Core Competencies:** Software Development, Agricultural Data Analysis, Geospatial Systems, and Workflow Automation. 💻
+* **Core Competencies:** Agricultural Data Systems, API Design, Geospatial Analysis, and Workflow Automation. 💻
   
 * **International Status:** Italian Citizenship (AIRE registration in progress). 🇮🇹
 
@@ -20,7 +20,8 @@ Bridging **Agronomic Science** and **Data Technology**. With a background from *
 ### STRATEGIC PROJECTS
 
 #### 📊 [agrobr](https://github.com/bruno-portfolio/agrobr) | Agricultural Data Library
-Python package for Brazilian agricultural data. Provides unified access to CEPEA prices, CONAB harvest forecasts, and IBGE production statistics. Published on PyPI with 99+ tests passing.
+Production-grade Python infrastructure for Brazilian agricultural data. Unifies 26 public sources into standardized DataFrames with semantic datasets, automatic fallback, versioned contracts, and DuckDB caching. Published on PyPI with
+   4600+ tests.
 
 `pip install agrobr`
 
@@ -48,27 +49,21 @@ A decision support system for physical grain trading operations, transforming sc
 #### 🔍 [LicitaScan](https://github.com/bruno-portfolio/LicitaScan) | Scanner de licitações públicas com interface web
 Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP) com filtros inteligentes por área de atuação.
 
-#### [Responsible AI Decision Support](https://github.com/bruno-portfolio/Decisao-Responsavel-IA) 
-Practical principles for using AI as decision support, with human-in-the-loop, auditability and risk awareness.
-
-
-<p align="center">
-  <img height="180em"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=bruno-portfolio&theme=dark&hide_border=true"
-  />
-</p>
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bruno-portfolio&theme=chartreuse-dark&hide_border=true)
+![GitHub Stats](https://github-readme-stats-gamma-nine-40.vercel.app/api?username=bruno-portfolio&show_icons=true&hide_border=true&theme=chartreuse-dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=bruno-portfolio&theme=chartreuse-dark&hide_border=true)
+![Top Langs](https://github-readme-stats-gamma-nine-40.vercel.app/api/top-langs/?username=bruno-portfolio&layout=compact&theme=chartreuse-dark&hide_border=true)
 
 
 <h3 align="center">🛠️ Technical Stack</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/BioPython-E1E1E1?style=for-the-badge&logo=python&logoColor=blue" />
-</p>
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,typescript,flutter&theme=dark" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
+  </p>
 
 
 ### 📫 Contact
