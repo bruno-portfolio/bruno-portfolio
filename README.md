@@ -74,5 +74,5 @@ Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP
 * **LinkedIn:** [Click here :)](https://www.linkedin.com/in/bruno-escalhao-32a41934b/)
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=Let%27s%20build%20something%20useful&fontSize=18&fontColor=000000&fontAlignY=88&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=120&section=footer&text=Let%27s%20build%20something%20useful&fontSize=18&fontColor=000000&fontAlignY=82&animation=fadeIn"/>
 </p>
