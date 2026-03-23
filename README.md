@@ -26,7 +26,7 @@ Production-grade Python infrastructure for Brazilian agricultural data. Unifies 
 #### 📈 [agrobr-mcp](https://github.com/bruno-portfolio/agrobr-mcp) | agrobr MCP server
 MCP server that gives LLMs access to real-time Brazilian agricultural data — prices, crop estimates, climate, deforestation and more from 10 public sources.
 
-#### ⚕️ [hypokrates](https://github.com/bruno-portfolio/hypokrates) | Open-source python library
+#### ⚕️ [hypokrates](https://github.com/bruno-portfolio/hypokrates) | Open-source python library / MCP
 Democratizing medical hypothesis generation by cross-referencing global public health data through open tools.
 
 #### 🌿 [Flor de Lei](https://github.com/bruno-portfolio/Flor-de-Lei) | Guia gratuito e open-source
