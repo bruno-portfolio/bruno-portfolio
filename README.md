@@ -59,18 +59,6 @@ Busca oportunidades abertas no Portal Nacional de Contratações Públicas (PNCP
 <td colspan="2" align="center"><img src="https://github-readme-stats-gamma-nine-40.vercel.app/api/top-langs/?username=bruno-portfolio&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=c9d1d9&icon_color=FFD700&card_width=860"/></td>
 </tr></table>
 
-
-<h3 align="center">🛠️ Technical Stack</h3>
-  <p align="center">
-    <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,typescript,flutter&theme=dark" />
-  </p>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-    <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
-    <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" />
-  </p>
-
-
 ### 📫 Contact
 * **Location:** Sumaré/SP, Brazil (Open to remote and international opportunities).
 * **Email:** brunoescalhao@gmail.com.
